@@ -53,7 +53,8 @@ Simulate actions based on a global time-step.
 📂 Project Structure
 ├── scheduler.c         # Main C file for the scheduler
 ├── README.md           # Project documentation
-└── validation.out       # Folder containing input.txt for each test case
+└── validation.out       
+|___ testcaseX          
 
 
 📄 License
